@@ -1,4 +1,4 @@
 [submodule "redefine"]
 	path = themes/redefine
-	url = ../redefine
+	url = https://github.com/frg01/blog-themes.git
 	#url = https://github.com/EvanNotFound/hexo-theme-redefine.git
